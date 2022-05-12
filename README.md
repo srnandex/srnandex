@@ -26,6 +26,6 @@
     
   ![Snake animation](https://github.com/srnandex/srnandex/blob/output/github-contribution-grid-snake.svg)
     
-  </div>
+</div>
   
   
