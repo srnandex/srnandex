@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/nando-rocha/">
     
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apisrnandex=anuraghazra&count_private=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?srnandex=anuraghazra&count_private=true)
     
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srnandex&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
