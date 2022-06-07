@@ -2,9 +2,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nando-rocha/">
-    
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apisrnandex=anuraghazra&count_private=true)
-    
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=srnandex&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srnandex&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
   
@@ -27,6 +25,7 @@
   <a href = "mailto:fsnando.rocha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>  
     
   ![Snake animation](https://github.com/srnandex/srnandex/blob/output/github-contribution-grid-snake.svg)
+    
 </div>
   
   
